@@ -1,0 +1,6 @@
+# Criar um ambientre virtual
+python -m venv .venv
+
+# Ativar um ambiente virutal no Windows
+.\.venv\Scrips\Activate.ps1
+
