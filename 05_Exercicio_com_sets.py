@@ -27,6 +27,8 @@ for nome_atividade, atividade in atividades:
     # sala1 que tem interseção com atividade
     atividade_sala1 = set(sala1) & set(atividade)
     atividade_sala2 = set(sala2).intersection(atividade)
+    # mesma solução com 2 maneiras diferentes
+    # na segunda linha não é necessário transformar "atividade" em set
         
     print(f"{nome_atividade} sala 1", atividade_sala1)
     print(f"{nome_atividade} sala 2", atividade_sala2)
