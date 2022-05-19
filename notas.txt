@@ -4,4 +4,7 @@ python -m venv .venv
 # Ativar um ambiente virutal no Windows
 .\.venv\Scrips\Activate.ps1
 
-pyformat.info - dentro do editor do python, help("FORMATTING")
+pyformat.info - para formatação de string
+    dentro do editor do python, help("FORMATTING")
+    
+id(<<variavel>>) - ver o endereço de memória de uma variável
