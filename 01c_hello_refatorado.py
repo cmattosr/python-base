@@ -5,7 +5,11 @@ Dependendo da língua configurada no ambiente, o programa exibe a mensagem corre
 Como usar:
 tenha a variável LANG devidamente configurada no ambiente, ex:
     export LANG=pt_BR.UTF-8
-dependendo do Sistma Operacional a configuração de variável de ambiente muda
+    (dependendo do Sistma Operacional a configuração de variável de ambiente muda)
+    
+Ou informe através do CLI argument "--lang"
+
+Ou o usuário terá que digitar
     
 Execução:
 
