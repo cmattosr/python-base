@@ -1,0 +1,4 @@
+Minhas Notas	notas	Esta e a primeira linha
+Segunda	segunda	Esta e a segunda linha do notes.txt
+Terceira	terceira	Esta e a terceira linha
+Nova linha	nova	Esta e a nova linha pra retomar o treinamento

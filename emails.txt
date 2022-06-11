@@ -1,0 +1,4 @@
+Bruno,brunoemail@gmail.com
+Maria,mariaemail@gmail.com
+Joao,joaoemail@gmail.com
+Antonio,toninho@ig.com.br
