@@ -26,8 +26,13 @@ import sys
 arguments = {"lang": None, "count" : 1}
 
 for arg in sys.argv[1:]:
-    # TODO: Tratar ValueError (argumento inválido, sem o '=')
-    key, value = arg.split("=")
+    try:
+        key, value = arg.split("=")
+    except ValueError as e:
+        print(str(e))
+        print("You need to use =")
+        print(f"You passed {arg}")
+        print("try with --key=value")
     key = key.lstrip("-").strip()
     value = value.strip()
     if key not in arguments:
