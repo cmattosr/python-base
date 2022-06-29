@@ -2,3 +2,8 @@ Minhas Notas	notas	Esta e a primeira linha
 Segunda	segunda	Esta e a segunda linha do notes.txt
 Terceira	terceira	Esta e a terceira linha
 Nova linha	nova	Esta e a nova linha pra retomar o treinamento
+Exemplos	Exemplos	Este eh o texto
+Exemplos2	Exemplos2	Esgte e o exemplo 02
+Exemplos2	exemplos3	Este e o exemplo 3
+Exemplos10	exemplos10	exemplos10
+Exemplos10	exemplos11	exemplos11
