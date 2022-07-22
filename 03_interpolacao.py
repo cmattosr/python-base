@@ -1,3 +1,7 @@
+"""
+para executar:  
+py .\03_interpolacao.py emails.txt .\email_template.txt
+"""
 import sys
 import os
 
