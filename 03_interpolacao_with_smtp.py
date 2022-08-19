@@ -12,6 +12,7 @@ import os
 import smtplib
 from email.mime.text import MIMEText
 
+
 arguments = sys.argv[1:]
 
 if not arguments:
